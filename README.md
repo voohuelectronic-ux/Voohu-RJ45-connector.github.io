@@ -27,4 +27,4 @@ This repository contains engineering resources for **VOOHU RJ45 connectors**, in
 ## Contact
 
 For samples or technical support: wohu05@wohutek.com
-<meta name="google-site-verification" content="k5ue4tRVjoKa8esalc-dkwwKXG-MX-LGNjCkJnoV_sA" />
+
